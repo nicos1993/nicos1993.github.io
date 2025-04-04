@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://profiles.stanford.edu/nicos-haralabidis" target="_blank">View my Stanford profile →</a>
 
 profile:
   align: right
